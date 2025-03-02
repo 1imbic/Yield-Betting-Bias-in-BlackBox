@@ -1,0 +1,76 @@
+{
+  "matches": [
+    {
+      "MatchID": "0002",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 20:00",
+      "TeamA": "Heroic",
+      "TeamB": "Housebets",
+      "TeamA_Odds": "1.0417",
+      "TeamB_Odds": "25"
+    },
+    {
+      "MatchID": "0003",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 20:00",
+      "TeamA": "Eternal Fire",
+      "TeamB": "TyLoo",
+      "TeamA_Odds": "1.09",
+      "TeamB_Odds": "7.01"
+    },
+    {
+      "MatchID": "0004",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 22:30",
+      "TeamA": "FURIA Esports",
+      "TeamB": "SAW",
+      "TeamA_Odds": "1.35",
+      "TeamB_Odds": "3.18"
+    },
+    {
+      "MatchID": "0005",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 22:30",
+      "TeamA": "Nemiga Gaming",
+      "TeamB": "NRG",
+      "TeamA_Odds": "1.78",
+      "TeamB_Odds": "2.02"
+    },
+    {
+      "MatchID": "0006",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-03 01:00",
+      "TeamA": "GamerLegion",
+      "TeamB": "MIBR",
+      "TeamA_Odds": "1.63",
+      "TeamB_Odds": "2.25"
+    },
+    {
+      "MatchID": "0007",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-03 01:00",
+      "TeamA": "PaiN Gaming",
+      "TeamB": "M80",
+      "TeamA_Odds": "1.4",
+      "TeamB_Odds": "2.93"
+    },
+    {
+      "MatchID": "0000",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 17:30",
+      "TeamA": "FlyQuest",
+      "TeamB": "Lynn Vision Gaming",
+      "TeamA_Odds": "1.44",
+      "TeamB_Odds": "2.74"
+    },
+    {
+      "MatchID": "0001",
+      "MatchName": "esl_pro_league_season_21",
+      "MatchTime": "03-02 17:30",
+      "TeamA": "Team 3DMAX",
+      "TeamB": "Mindfreak",
+      "TeamA_Odds": "1.02",
+      "TeamB_Odds": "14.24"
+    }
+  ]
+}

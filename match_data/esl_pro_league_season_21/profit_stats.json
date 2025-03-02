@@ -1,0 +1,49 @@
+{
+  "stats": [
+    {
+      "MatchID": "0002",
+      "MatchTime": "03-02 20:00",
+      "Team": "Heroic",
+      "Coins": 3000.0,
+      "Result": "Win",
+      "Profit": 510.00000000000006
+    },
+    {
+      "MatchID": "0005",
+      "MatchTime": "03-02 22:30",
+      "Team": "Nemiga Gaming",
+      "Coins": 200.0,
+      "Result": "Win",
+      "Profit": 229.99999999999997
+    },
+    {
+      "MatchID": "0007",
+      "MatchTime": "03-03 01:00",
+      "Team": "M80",
+      "Coins": 500.0,
+      "Result": "Win",
+      "Profit": 955.0
+    },
+    {
+      "MatchID": "0001",
+      "MatchTime": "03-02 17:30",
+      "Team": "Team 3DMAX",
+      "Coins": 3000.0,
+      "Result": "Win",
+      "Profit": 840.0000000000001
+    },
+    {
+      "MatchID": "0000",
+      "MatchTime": "03-02 17:30",
+      "Team": "FlyQuest",
+      "Coins": 3000.0,
+      "Result": "Win",
+      "Profit": 1590.0
+    }
+  ],
+  "summary": {
+    "TotalCoins": 9700.0,
+    "TotalProfit": 4125.0,
+    "SuccessRate": 1.0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "odds": [
+    {
+      "MatchID": "0000",
+      "TeamA_Odds": 1.44,
+      "TeamA_Probability": 0.623152709359606,
+      "TeamA_PlatformRake": 0.04885,
+      "TeamB_Odds": 2.74,
+      "TeamB_Probability": 0.3768472906403941,
+      "TeamB_PlatformRake": 0.04885
+    },
+    {
+      "MatchID": "0001",
+      "TeamA_Odds": 1.02,
+      "TeamA_Probability": 0.7547892720306513,
+      "TeamA_PlatformRake": 0.03506,
+      "TeamB_Odds": 14.24,
+      "TeamB_Probability": 0.24521072796934862,
+      "TeamB_PlatformRake": 0.03506
+    },
+    {
+      "MatchID": "0002",
+      "TeamA_Odds": 1.0417,
+      "TeamA_Probability": 0.8318965517241379,
+      "TeamA_PlatformRake": 0.02741,
+      "TeamB_Odds": 25.0,
+      "TeamB_Probability": 0.16810344827586204,
+      "TeamB_PlatformRake": 0.02741
+    },
+    {
+      "MatchID": "0003",
+      "TeamA_Odds": 1.09,
+      "TeamA_Probability": 0.7976588628762542,
+      "TeamA_PlatformRake": 0.03609,
+      "TeamB_Odds": 7.01,
+      "TeamB_Probability": 0.20234113712374582,
+      "TeamB_PlatformRake": 0.03609
+    },
+    {
+      "MatchID": "0004",
+      "TeamA_Odds": 1.35,
+      "TeamA_Probability": 0.6222222222222222,
+      "TeamA_PlatformRake": 0.05042,
+      "TeamB_Odds": 3.18,
+      "TeamB_Probability": 0.37777777777777777,
+      "TeamB_PlatformRake": 0.05042
+    },
+    {
+      "MatchID": "0005",
+      "TeamA_Odds": 1.78,
+      "TeamA_Probability": 0.44155844155844154,
+      "TeamA_PlatformRake": 0.05335,
+      "TeamB_Odds": 2.02,
+      "TeamB_Probability": 0.5584415584415584,
+      "TeamB_PlatformRake": 0.05335
+    },
+    {
+      "MatchID": "0006",
+      "TeamA_Odds": 1.63,
+      "TeamA_Probability": 0.5769230769230769,
+      "TeamA_PlatformRake": 0.05051,
+      "TeamB_Odds": 2.25,
+      "TeamB_Probability": 0.423076923076923,
+      "TeamB_PlatformRake": 0.05051
+    },
+    {
+      "MatchID": "0007",
+      "TeamA_Odds": 1.4,
+      "TeamA_Probability": 0.6720554272517322,
+      "TeamA_PlatformRake": 0.04787,
+      "TeamB_Odds": 2.93,
+      "TeamB_Probability": 0.3279445727482679,
+      "TeamB_PlatformRake": 0.04787
+    }
+  ]
+}

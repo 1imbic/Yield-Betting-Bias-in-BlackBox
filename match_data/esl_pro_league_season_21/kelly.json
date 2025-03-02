@@ -1,0 +1,36 @@
+{
+  "kelly": [
+    {
+      "MatchID": "0002",
+      "Team": "TeamA",
+      "Kelly": 0.8882550565116174,
+      "Allocated_Coins": "0.00",
+      "MatchResult": "",
+      "Profit": ""
+    },
+    {
+      "MatchID": "0001",
+      "Team": "TeamA",
+      "Kelly": 0.4649892401920215,
+      "Allocated_Coins": "0.00",
+      "MatchResult": "",
+      "Profit": ""
+    },
+    {
+      "MatchID": "0007",
+      "Team": "TeamB",
+      "Kelly": 0.035979278074866346,
+      "Allocated_Coins": "0.00",
+      "MatchResult": "",
+      "Profit": ""
+    },
+    {
+      "MatchID": "0005",
+      "Team": "TeamA",
+      "Kelly": 0.014343360234776165,
+      "Allocated_Coins": "0.00",
+      "MatchResult": "",
+      "Profit": ""
+    }
+  ]
+}

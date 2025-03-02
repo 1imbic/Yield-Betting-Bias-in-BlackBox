@@ -1,0 +1,60 @@
+{
+  "littleblackbox": [
+    {
+      "MatchID": "0000",
+      "TeamA_LittleBlackBox_Odds": 0.53,
+      "TeamA_LittleBlackBox_Rake": 0.04885,
+      "TeamB_LittleBlackBox_Odds": 1.53,
+      "TeamB_LittleBlackBox_Rake": 0.04885
+    },
+    {
+      "MatchID": "0001",
+      "TeamA_LittleBlackBox_Odds": 0.28,
+      "TeamA_LittleBlackBox_Rake": 0.03506,
+      "TeamB_LittleBlackBox_Odds": 2.94,
+      "TeamB_LittleBlackBox_Rake": 0.03506
+    },
+    {
+      "MatchID": "0002",
+      "TeamA_LittleBlackBox_Odds": 0.17,
+      "TeamA_LittleBlackBox_Rake": 0.02741,
+      "TeamB_LittleBlackBox_Odds": 4.79,
+      "TeamB_LittleBlackBox_Rake": 0.02741
+    },
+    {
+      "MatchID": "0003",
+      "TeamA_LittleBlackBox_Odds": 0.21,
+      "TeamA_LittleBlackBox_Rake": 0.03609,
+      "TeamB_LittleBlackBox_Odds": 3.77,
+      "TeamB_LittleBlackBox_Rake": 0.03609
+    },
+    {
+      "MatchID": "0004",
+      "TeamA_LittleBlackBox_Odds": 0.53,
+      "TeamA_LittleBlackBox_Rake": 0.05042,
+      "TeamB_LittleBlackBox_Odds": 1.52,
+      "TeamB_LittleBlackBox_Rake": 0.05042
+    },
+    {
+      "MatchID": "0005",
+      "TeamA_LittleBlackBox_Odds": 1.15,
+      "TeamA_LittleBlackBox_Rake": 0.05335,
+      "TeamB_LittleBlackBox_Odds": 0.7,
+      "TeamB_LittleBlackBox_Rake": 0.05335
+    },
+    {
+      "MatchID": "0006",
+      "TeamA_LittleBlackBox_Odds": 0.65,
+      "TeamA_LittleBlackBox_Rake": 0.05051,
+      "TeamB_LittleBlackBox_Odds": 1.25,
+      "TeamB_LittleBlackBox_Rake": 0.05051
+    },
+    {
+      "MatchID": "0007",
+      "TeamA_LittleBlackBox_Odds": 0.42,
+      "TeamA_LittleBlackBox_Rake": 0.04787,
+      "TeamB_LittleBlackBox_Odds": 1.91,
+      "TeamB_LittleBlackBox_Rake": 0.04787
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "profit": [
+    {
+      "MatchID": "0000",
+      "TeamA_Expected_Profit": -0.07407766990291254,
+      "TeamA_ProfitVariance": 0.559329003676124,
+      "TeamA_Kelly": 0,
+      "TeamB_Expected_Profit": -0.001100323624595445,
+      "TeamB_ProfitVariance": 1.5294156177668854,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0001",
+      "TeamA_Expected_Profit": 0.13019698725376605,
+      "TeamA_ProfitVariance": 0.1693069136873312,
+      "TeamA_Kelly": 0.4649892401920215,
+      "TeamB_Expected_Profit": -0.5388876013904982,
+      "TeamB_ProfitVariance": 1.6041582063700288,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0002",
+      "TeamA_Expected_Profit": 0.08481297496228835,
+      "TeamA_ProfitVariance": 0.09241199005934694,
+      "TeamA_Kelly": 0.4988998527193432,
+      "TeamB_Expected_Profit": -0.5784334401979907,
+      "TeamB_ProfitVariance": 2.263152016910332,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0003",
+      "TeamA_Expected_Profit": -0.04038613861386142,
+      "TeamA_ProfitVariance": 0.24027400931281243,
+      "TeamA_Kelly": 0,
+      "TeamB_Expected_Profit": -0.012940594059406063,
+      "TeamB_ProfitVariance": 3.7339870954808347,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0004",
+      "TeamA_Expected_Profit": -0.020612557427258982,
+      "TeamA_ProfitVariance": 0.5392630244671197,
+      "TeamA_Kelly": 0,
+      "TeamB_Expected_Profit": -0.09310872894333833,
+      "TeamB_ProfitVariance": 1.46291422554402,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0005",
+      "TeamA_Expected_Profit": 0.11948275862068947,
+      "TeamA_ProfitVariance": 1.1536462841854933,
+      "TeamA_Kelly": 0.10389805097451259,
+      "TeamB_Expected_Profit": -0.18517241379310345,
+      "TeamB_ProfitVariance": 0.7212629013079668,
+      "TeamB_Kelly": 0
+    },
+    {
+      "MatchID": "0006",
+      "TeamA_Expected_Profit": -0.08801020408163274,
+      "TeamA_ProfitVariance": 0.6730577754060808,
+      "TeamA_Kelly": 0,
+      "TeamB_Expected_Profit": 0.0063775510204080454,
+      "TeamB_ProfitVariance": 1.2515537145980842,
+      "TeamB_Kelly": 0.005102040816326525
+    },
+    {
+      "MatchID": "0007",
+      "TeamA_Expected_Profit": -0.11838862559241714,
+      "TeamA_ProfitVariance": 0.47464953617394035,
+      "TeamA_Kelly": 0,
+      "TeamB_Expected_Profit": 0.10331753554502376,
+      "TeamB_ProfitVariance": 1.9933444441948742,
+      "TeamB_Kelly": 0.05409295054713275
+    }
+  ]
+}
